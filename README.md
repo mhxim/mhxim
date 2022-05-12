@@ -1,5 +1,5 @@
 ## About Me
-- I'm an 18 year old Full-stack developer from Switzerland. 🇨🇭
+- I'm an 19 year old Full-stack developer from Switzerland. 🇨🇭
 - Working as a Software Developer at 2sic.
 - Interested in tech, finance and modeling.
 
