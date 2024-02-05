@@ -1,13 +1,9 @@
 ## About Me
 
-- I'm an 19 year old Full-stack developer from Switzerland. 🇨🇭
-I like building things :).
+- I'm an 20 year old Full-stack developer from Switzerland. 🇨🇭
 
-Currently building [Flowy](https://flowy.email)
+Currently building [Replyfront](https://replyfront.com)
 
-Prefered stack: NextJS, .NET, PostgreSQL, Docker & Kubernetes.
-Experience with Angular, Flutter, gRPC, RabbitMQ, Puppeteer/Playwright, .NET Framework & DNN.
-
-## Links
-[Portfolio site](https://maximhuesler.com)
-[Work account](https://github.com/maaaximum)
+Programming Languages: TypeScript, JavaScript, C#, Python, Java, SQL, HTML/CSS, Dart, Rust, Golang
+Frameworks: NextJS, Angular, .NET, Entity Framework, Flask, TailwindCSS, Bootstrap, Flutter
+Technologies and Tools: PostgreSQL, Docker, Kubernetes, AWS, Terraform, Ansible, gRPC, rabbitMQ, Selenium/Puppeteer, Node, Git, GitHub Actions, Linux, Huggingface
