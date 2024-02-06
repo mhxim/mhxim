@@ -1,6 +1,6 @@
 ## About Me
 
-- I'm an 20 year old Full-stack developer from Switzerland. 🇨🇭
+- I'm a 20 year old Full-stack developer from Switzerland. 🇨🇭
 
 Currently building [Replyfront](https://replyfront.com)
 
